@@ -1,2 +1,15 @@
 # Asistente-lab-quimica
-Es una herramienta interactiva para realizar cálculos químicos esenciales, y ademas tiene un asistente de inteligencia artificial con capacidad conversacional que permite responder preguntas sobre preparación de soluciones, fundamentos teóricos y normas de seguridad
+🧪 **Asistente de Laboratorio Inteligente**
+Este proyecto fue creado para apoyar a estudiantes y profesionales de química.
+
+Aquí puedes:
+- Realizar cálculos de concentración, estequiometría, rendimiento y diluciones.
+- Preguntar sobre la preparación de soluciones.
+- Resolver dudas sobre fundamentos teóricos.
+- Consultar normas de seguridad en el laboratorio.
+
+🚀 *Cómo usarlo*
+- Entra al enlace desplegado en Streamlit Cloud .
+- Interactúa con la interfaz y realiza tus consultas.
+
+👩‍🔬 Autora: *Yeraldine Rosso Pérez*
